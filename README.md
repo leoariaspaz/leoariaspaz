@@ -1,34 +1,8 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**leoariaspaz/leoariaspaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi, I'm Leonardo 👋
 
-**Senior full-stack engineer** with 20 years building production systems, now working across the **TypeScript/React/NestJS** ecosystem. I care about clear architecture, pragmatic trade-offs, and shipping software that stays maintainable.
+Senior Backend Engineer with 15+ years of experience specializing in backend application development, application modernization, and legacy code refactoring. Proven track record of designing modular architectures, RESTful APIs, and scalable backend solutions.
 
-Based in Argentina · Working in English and Spanish
-
-## Tech stack
-
-- **Backend:** C# / .NET, NestJS, Prisma, MySQL
-- **Frontend:** React, Vite, JavaScript/TypeScript
-- **Infra & tooling:** Vercel, Render, Aiven, Git, pnpm
-
-## Featured project: Conciliaciones (Rivendel)
+## :pencil: Featured project: Conciliaciones (Rivendel)
 
 System for managing labor claims and issuing conciliation agreements.
 
@@ -42,6 +16,6 @@ A full-stack web app in production, built end to end as a solo developer.
 
 [Live demo](<url>) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](<url>)
 
-## Get in touch
+## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-arias-paz/)
