@@ -14,7 +14,7 @@ A full-stack web app in production, built end to end as a solo developer.
 - Third-party bank scrap integration behind anti-bot protection
 - Intelligent generation of conciliation agreements in PDF format
 
-[Live demo](<url>) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](<url>)
+[Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./docs/case-study.md)
 
 ## 📫 Get in touch
 
