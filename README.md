@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Leonardo 👋
 
-<!--
-**leoariaspaz/leoariaspaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 15+ years of experience specializing in backend application development, application modernization, and legacy code refactoring. Proven track record of designing modular architectures, RESTful APIs, and scalable backend solutions.
 
-Here are some ideas to get you started:
+## :pencil: Featured project: <img src="doc/images/rivendel.svg" /> Conciliaciones (Rivendel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+System for managing labor claims and issuing conciliation agreements.
+
+A full-stack web app in production, built end to end as a solo developer.
+
+- Google Calendar integration via OAuth2 (refresh tokens, per-user consent)
+- Rich-text documents with Tiptap and client-side PDF generation
+- Cross-domain session auth between Vercel and Render (secure cookies)
+- Third-party bank scrap integration behind anti-bot protection
+- Intelligent generation of conciliation agreements in PDF format
+
+[Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./doc/case-studies/conciliaciones.md)
+
+## 📫 Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-arias-paz/)
