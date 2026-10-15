@@ -2,7 +2,7 @@
 
 Senior Backend Engineer with 15+ years of experience specializing in backend application development, application modernization, and legacy code refactoring. Proven track record of designing modular architectures, RESTful APIs, and scalable backend solutions.
 
-## :pencil: Featured project: Conciliaciones (Rivendel)
+## :pencil: Featured project: <img src="doc/images/rivendel.svg" /> Conciliaciones (Rivendel)
 
 System for managing labor claims and issuing conciliation agreements.
 
@@ -14,7 +14,7 @@ A full-stack web app in production, built end to end as a solo developer.
 - Third-party bank scrap integration behind anti-bot protection
 - Intelligent generation of conciliation agreements in PDF format
 
-[Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./docs/case-study.md)
+[Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./doc/case-studies/conciliaciones.md)
 
 ## 📫 Get in touch
 
