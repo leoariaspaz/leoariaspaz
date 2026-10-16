@@ -1,10 +1,12 @@
-# Rivendel: Case management platform for labor conciliators
+# Conciliaciones: Case management platform for labor conciliators
 
 A full-stack platform built solo, end to end, for the labor conciliators designated under DICLO (Dirección de Conciliación Laboral Obligatoria), a newly created mandatory labor conciliation authority in Santiago del Estero, Argentina.
 
+The project was developed under the internal codename *Rivendel*.
+
 ## The Problem
 
-When DICLO was established and its conciliators were designated, they had no system to manage their hearings or to issue the resulting conciliation records (actas). Everything depended on manual, ad hoc processes for a function that now had legal weight and recurring volume. I identified this gap and built Rivendel to fill it — not as an assigned task, but as a self-initiated project to solve a real, unaddressed institutional need.
+When DICLO was established and its conciliators were designated, they had no system to manage their hearings or to issue the resulting conciliation records (actas). Everything depended on manual, ad hoc processes for a function that now had legal weight and recurring volume. I identified this gap and built Conciliaciones to fill it — not as an assigned task, but as a self-initiated project to solve a real, unaddressed institutional need.
 
 ## My Role
 
