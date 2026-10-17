@@ -16,7 +16,7 @@ A full-stack web app in production, built end to end as a solo developer.
 
 [Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./doc/case-studies/conciliaciones.md)
 
-## <img src="doc/images/ismp.jpg" alt="ISMP" width="24"> SMPorres — Tuition Collections System
+## <img src="doc/images/ismp.jpg" alt="ISMP" width="20"> SMPorres — Tuition Collections System
 
 A collections system I co-developed with a friend for a technical-career institute in Argentina, replacing a legacy Access database and a manual reconciliation process. It covers the full cycle: enrolling students, generating payment plans, issuing bank payment slips with barcodes, importing the bank's settlement file to register payments, and notifying debtors by email, plus a web portal where students check their own account.
 
