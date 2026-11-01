@@ -13,6 +13,7 @@ A full-stack web app in production, built end to end as a solo developer.
 - Rich-text settlement documents built with Tiptap
 - Cross-domain authentication with short-lived access tokens and rotating refresh tokens
 - Third-party bank integration for account verification, behind anti-bot protection
+- Sponsoring counsels catalog populated in bulk from the bar association's public directory, with a companion .NET console tool ([download-abogados](https://github.com/leoariaspaz/download-abogados)).
 
 [Live demo](https://conciliaciones-demo.vercel.app/) · [Frontend repository](https://github.com/leoariaspaz/rivendel-client) · [Backend repository](https://github.com/leoariaspaz/rivendel) · [Case study](./doc/case-studies/conciliaciones.md)
 
